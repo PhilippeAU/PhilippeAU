@@ -3,6 +3,7 @@
 
 - 🔭 Estudando C# para Unity
 - 🌱 Estudando Java e Python
+-    Estudando JavaScript
 - 👯 Cursando Ciência da Computação
 
 <div align="center">
