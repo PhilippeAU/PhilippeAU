@@ -1,6 +1,6 @@
 ## Óla! Eu sou Philippe Augusto
 
--    Estagiario Da Unimed
+-    Estagiário Da Unimed
 - 🔭 Estudando C# para Unity
 - 🌱 Estudando Java e Python
 -    Estudando JavaScript
