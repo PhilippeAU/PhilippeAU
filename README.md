@@ -11,7 +11,6 @@ https://cdn.discordapp.com/attachments/693260241520820275/1157770955775545475/21
 
 
 
-
 <div align="center">
   <a href="https://github.com/PhilippeAU">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhilippeAU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
