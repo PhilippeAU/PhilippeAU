@@ -8,11 +8,11 @@
 - 👯 Cursando Ciência da Computação
 
 
-     ![271793262-79874818-f58a-41b9-9b3a-6d06f46807e2](https://github.com/PhilippeAU/PhilippeAU/assets/92548685/68219fff-8aa4-41db-a3c8-2e51f67312ee)
-     
-
-
 <div align="center">
+
+![271793262-79874818-f58a-41b9-9b3a-6d06f46807e2](https://github.com/PhilippeAU/PhilippeAU/assets/92548685/68219fff-8aa4-41db-a3c8-2e51f67312ee)
+
+
   <a href="https://github.com/PhilippeAU">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhilippeAU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippeAU&layout=compact&langs_count=7&theme=tokyonight"/>
