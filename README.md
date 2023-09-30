@@ -7,8 +7,8 @@
 - 👯 Cursando Ciência da Computação
 
 
-[https://github.com/stherzada/stherzada/blob/main/.github/219673.gif](https://cdn.discordapp.com/attachments/693260241520820275/1157770955775545475/219673_1.gif?ex=6519d1ba&is=6518803a&hm=0486153f4bffce2071d10fd7df64f21066a4174c80b87944284aa74b0bec4f41&)
-
+[(https://cdn.discordapp.com/attachments/693260241520820275/1157770955775545475/219673_1.gif?ex=6519d1ba&is=6518803a&hm=0486153f4bffce2071d10fd7df64f21066a4174c80b87944284aa74b0bec4f41&)
+](https://cdn.discordapp.com/attachments/693260241520820275/1157770955775545475/219673_1.gif?ex=6519d1ba&is=6518803a&hm=0486153f4bffce2071d10fd7df64f21066a4174c80b87944284aa74b0bec4f41&)
 
 
 
