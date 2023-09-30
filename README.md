@@ -7,9 +7,9 @@
 - 👯 Cursando Ciência da Computação
 
 
+https://github.com/stherzada/stherzada/blob/main/.github/219673.gif
 
 
-![image](https://github.com/PhilippeAU/PhilippeAU/assets/92548685/60893088-3455-4516-8476-b9ad71857be8)
 
 
 
