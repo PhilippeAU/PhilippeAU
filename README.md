@@ -6,6 +6,18 @@
 -    Estudando JavaScript
 - 👯 Cursando Ciência da Computação
 
+
+
+
+![image](https://github.com/PhilippeAU/PhilippeAU/assets/92548685/60893088-3455-4516-8476-b9ad71857be8)
+
+
+
+
+
+
+
+
 <div align="center">
   <a href="https://github.com/PhilippeAU">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhilippeAU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
