@@ -8,8 +8,7 @@
 - 👯 Cursando Ciência da Computação
 
 
-     
-     ![luffy](.github/219673.gif)
+     ![271793262-79874818-f58a-41b9-9b3a-6d06f46807e2](https://github.com/PhilippeAU/PhilippeAU/assets/92548685/68219fff-8aa4-41db-a3c8-2e51f67312ee)
      
 
 
