@@ -4,7 +4,7 @@
 -    Estudando C# para Unity/GODOT
 -    Estudando Java e Python
 -    Estudando JavaScript
--    Cursando Ciência da Computação
+-    Cursando Ciência da Computação 6/8
 
 
 <div align="center">
