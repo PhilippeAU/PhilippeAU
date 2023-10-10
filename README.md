@@ -1,7 +1,7 @@
 ## Óla! Eu sou Philippe Augusto
 
 -    Estagiário Da Unimed
--    Estudando C# para Unity
+-    Estudando C# para Unity/GODOT
 -    Estudando Java e Python
 -    Estudando JavaScript
 -    Cursando Ciência da Computação
