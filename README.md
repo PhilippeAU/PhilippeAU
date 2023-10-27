@@ -4,7 +4,7 @@
 -    Estudando Java e Python
 -    Estudando JavaScript
 -    Cursando Ciência da Computação 6/8
--    Estagiei  Da Unimed
+-    Estagiei na Unimed
 
 
 <div align="center">
