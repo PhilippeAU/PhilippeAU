@@ -3,7 +3,7 @@
 -    Estudando C# para Unity/GODOT
 -    Estudando Java e Python
 -    Estudando JavaScript
--    Cursando Ciência da Computação 6/8
+-    Cursando Ciência da Computação 8/8
 -    Estagiei na Unimed
 
 
